@@ -1,0 +1,13 @@
+{
+  "client": {
+    "host": "peachland2024.aternos.me",
+    "port": "27004",
+    "username": "PeachMC"
+  },
+  "logLevel": ["error", "log", "debug"],
+  "action": {
+    "commands": ["forward", "back", "left", "right", "jump"],
+    "holdDuration": 5000,
+    "retryDelay": 15000
+  }
+}
